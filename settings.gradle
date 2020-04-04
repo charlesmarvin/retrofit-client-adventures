@@ -1,0 +1,4 @@
+rootProject.name = 'retrofit-client-adventures'
+include 'red-pill'
+include 'blue-pill'
+
